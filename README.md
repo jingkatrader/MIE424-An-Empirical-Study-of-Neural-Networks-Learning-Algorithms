@@ -1,6 +1,7 @@
 # MIE424-An-Empirical-Study-of-Neural-Networks-Learning-Algorithms
 
 
+# Stock Prediction 
 ## Data files:
 - data_more.xlsx:     
 consists of the stock prices for BSE SENSEX index from Jan 1991 - Dec 2020    
@@ -23,3 +24,17 @@ consists of the computed 10 stock indicators for BSE SENSEX index
     - Adam: An algorithm for first-order gradient-based optimization of stochastic objective functions, based on adaptive estimates of lower-order moments.
     - Adagrad: A subgradient methods that dynamically incorporate knowledge of the geometry of the data observed in earlier iterations to perform more informative gradient-based learning.
     - SGD: A stochastic approximation of gradient descent optimization by estimating a randomly selected subset of the data
+
+
+# Quantum Annealing
+## Code file:
+- Gradient Descent vs Quanntum_Annealing_for_convex_problem.ipynb
+   - Install d'wave ocean package   
+   - Create example binary linear regression problem
+   - Solve the example problem using GD and projected GD
+   - Solve the example problem using GD and projected GD
+   - Solve the example problem using D'wave Simulated Annealing   
+   - Connect to D'wave quantum annealer, Dwave account set up (instructions provided) 
+   - Solve the example problem using Quantum Annealing
+   - Time complexity comparisons
+   - Accuracy comparisons
