@@ -38,3 +38,24 @@ consists of the computed 10 stock indicators for BSE SENSEX index
    - Solve the example problem using Quantum Annealing
    - Time complexity comparisons
    - Accuracy comparisons
+
+# CIFAR-10 Image Classification
+## Code file:
+- Image Classification.ipynb 
+   - Data processing:
+      - Load CIFAR-10 dataset and apply one-hot-encoding 
+      - Split dataset into train (70%), validation (14%), and test (16%) sets
+   - Build a self-defined training method 
+      - Test_optimizer() can run for all six learning algorithms 
+   - Experiment 3 learning algorithms (included in Tensorflow packages): 
+      - Adam
+      - Adagrad
+      - SGD 
+   - Self-implemented 3 learning algorithms (not included in Tensorflow packages): 
+     - SGD Average
+     - SGD Noise
+     - Adam Noise
+   - Tensorboard
+      - Connect to Tensorboard to track training and validation process 
+      - View our Image Classification Tensorboard at:  https://tensorboard.dev/experiment/QHeHnU1VRFWoPBSKepSzHg/
+
