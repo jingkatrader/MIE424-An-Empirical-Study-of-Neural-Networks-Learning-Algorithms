@@ -24,6 +24,7 @@ consists of the computed 10 stock indicators for BSE SENSEX index
     - Adam: An algorithm for first-order gradient-based optimization of stochastic objective functions, based on adaptive estimates of lower-order moments.
     - Adagrad: A subgradient methods that dynamically incorporate knowledge of the geometry of the data observed in earlier iterations to perform more informative gradient-based learning.
     - SGD: A stochastic approximation of gradient descent optimization by estimating a randomly selected subset of the data
+  - Tensorboard results: https://tensorboard.dev/experiment/B7s48DEIQpSbviQEgH8Tnw/
 
 
 # Quantum Annealing
